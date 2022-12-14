@@ -45,6 +45,8 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
+
+*,
 ::after,
 ::before {
   margin: 0;
